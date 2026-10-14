@@ -1,0 +1,3 @@
+// Windows resource: gives ClipKeeper.exe its icon in Explorer / taskbar.
+// @CLIPKEEPER_ICO@ is filled in by CMake's configure_file with an absolute path.
+IDI_ICON1 ICON "@CLIPKEEPER_ICO@"

@@ -1,0 +1,11 @@
+# Build output
+/build/
+/build-release/
+/dist/
+
+# MSVC / CMake artifacts
+*.user
+*.obj
+*.pdb
+CMakeCache.txt
+CMakeFiles/
